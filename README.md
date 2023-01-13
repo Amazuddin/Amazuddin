@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I am Mohammad Amaz Uddin. I am a Software Developer and a researcher.
 
 
 
