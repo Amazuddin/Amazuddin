@@ -1,13 +1,23 @@
+# Mohammad Amaz Uddin (Amazuddin)
+
+**Software Developer | Researcher | ASP.NET | Flutter | AI & Machine Learning**  
+📍 Bangladesh  
+📫 Email: [amaz.cse.uddin@gmail.com](mailto:amaz.cse.uddin@gmail.com)  
+🌐 Portfolio: [https://mohammadamazuddin.netlify.app](https://mohammadamazuddin.netlify.app)  
+👨‍💻 GitHub: [https://github.com/Amazuddin](https://github.com/Amazuddin)
+
+---
+
 <h1 align="center">Hi there 👋, I'm Mohammad Amaz Uddin</h1>
 <h3 align="center">Software Developer | Researcher</h3>
 
 ---
 
-- 🧑‍💻 I’m currently working on **ASP.NET, ASP.NET MVC, .NET Core, Entity Framework, ASP.NET Web API, Angular**
-- 🌱 I’m currently learning **Flutter**
-- 🤝 I’m looking to collaborate on **Machine Learning & Deep Learning-based research**
-- 📫 Reach me via **amaz.cse.uddin@gmail.com**
-- 🌐 Portfolio: [mohammadamazuddin.netlify.app](https://mohammadamazuddin.netlify.app/)
+- 🧑‍💻 I’m currently working on **ASP.NET, ASP.NET MVC, .NET Core, Entity Framework, ASP.NET Web API, Angular**  
+- 🌱 I’m currently learning **Flutter**  
+- 🤝 I’m looking to collaborate on **Machine Learning & Deep Learning-based research**  
+- 📫 Reach me via **amaz.cse.uddin@gmail.com**  
+- 🌐 Portfolio: [mohammadamazuddin.netlify.app](https://mohammadamazuddin.netlify.app/)  
 - 😄 Pronouns: **He/Him**
 
 ---
@@ -77,15 +87,10 @@
 ### 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=Transport-management-system-with-ASP.NET)](https://github.com/Amazuddin/Transport-management-system-with-ASP.NET)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=WeMedCare)](https://github.com/Amazuddin/WeMedCare)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=Online-Book-and-Video-tutorial-System)](https://github.com/Amazuddin/Online-Book-and-Video-tutorial-System)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=UniversityManagement)](https://github.com/Amazuddin/UniversityManagement)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=Society-Information-Management-System)](https://github.com/Amazuddin/Society-Information-Management-System)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=Employee-Transport-Management-System)](https://github.com/Amazuddin/Employee-Transport-Management-System)
 
 ---
@@ -94,4 +99,5 @@
 
 📧 Email: [amaz.cse.uddin@gmail.com](mailto:amaz.cse.uddin@gmail.com)  
 🌐 Portfolio: [https://mohammadamazuddin.netlify.app](https://mohammadamazuddin.netlify.app)  
-👨‍💻 GitHub: [Amazuddin](https://github.com/Amazuddin)
+👨‍💻 GitHub: [Amazuddin](https://github.com/Amazuddin)  
+💼 LinkedIn: [https://www.linkedin.com/in/mohammad-amaz-uddin-2ab545154](https://www.linkedin.com/in/mohammad-amaz-uddin-2ab545154)
