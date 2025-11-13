@@ -5,7 +5,7 @@
 
 ---
 
-- 🧑‍💻 I’m currently working on **ASP.NET, ASP.NET MVC, .NET Core, Entity Framework, ASP.NET Web API, Angular**  
+- 🧑‍💻 I’m currently working on **ASP.NET, ASP.NET MVC, .NET Core, Entity Framework, ASP.NET Web API, Angular, React**  
 - 🌱 I’m currently learning **Flutter**  
 - 🤝 I’m looking to collaborate on **Machine Learning & Deep Learning-based research**  
 - 📫 Reach me via **amaz.cse.uddin@gmail.com**  
