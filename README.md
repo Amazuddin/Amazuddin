@@ -76,6 +76,12 @@
 
 ---
 
+### 📚 Research & Publications
+
+- 🔍 [**Google Scholar Profile**](https://scholar.google.com/citations?user=GtMWSzQAAAAJ&hl=en)  
+  Explore my research contributions in AI, Machine Learning, and Explainable Cybersecurity.
+---
+
 ### 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=Transport-management-system-with-ASP.NET)](https://github.com/Amazuddin/Transport-management-system-with-ASP.NET)
