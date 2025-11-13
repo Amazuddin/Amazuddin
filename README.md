@@ -1,11 +1,3 @@
-# Mohammad Amaz Uddin (Amazuddin)
-
-**Software Developer | Researcher | ASP.NET | Flutter | AI & Machine Learning**  
-📍 Bangladesh  
-📫 Email: [amaz.cse.uddin@gmail.com](mailto:amaz.cse.uddin@gmail.com)  
-🌐 Portfolio: [https://mohammadamazuddin.netlify.app](https://mohammadamazuddin.netlify.app)  
-👨‍💻 GitHub: [https://github.com/Amazuddin](https://github.com/Amazuddin)
-
 ---
 
 <h1 align="center">Hi there 👋, I'm Mohammad Amaz Uddin</h1>
