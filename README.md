@@ -74,11 +74,28 @@
 
 ---
 
-### 📚 Research & Publications
-🔍 **Google Scholar:**  
-https://scholar.google.com/citations?user=GtMWSzQAAAAJ&hl=en  
+### 🔬 Research & Publications
 
-Research interests include **AI, Machine Learning, Explainable AI (XAI), Cybersecurity, and NLP**.
+My research focuses on **Cybersecurity and Artificial Intelligence**, with particular emphasis on **Machine Learning (ML), Deep Learning (DL), Explainable AI (XAI), and Large Language Models (LLMs)** for security-critical applications. I aim to design **robust, interpretable, and trustworthy AI systems** that can operate reliably in adversarial environments.
+
+My core research interests include:
+- **Network Intrusion Detection Systems (NIDS)**
+- **Spam, phishing, and malicious content detection**
+- **Transformer-based and LLM-based security models**
+- **Security and robustness of Large Language Models (LLM Security)**, including adversarial and backdoor threats
+- **Applications of LLMs in Cybersecurity**, such as automated threat detection, security log analysis, and intelligent defense systems
+- **Explainable Artificial Intelligence (XAI)** to enhance transparency and trust in cybersecurity models
+
+I have published and actively work on research that bridges **high-performance deep learning models** with **explainability and security guarantees**, particularly in the context of **LLM-driven cybersecurity systems**.
+
+#### 📄 Publications (Auto-Updated)
+<a href="https://scholar.google.com/citations?user=GtMWSzQAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Scholar-View%20Publications-blue?logo=googlescholar&style=flat" />
+</a>
+
+🔍 For the **complete and always up-to-date list of publications, citations, and research metrics**, please visit my  
+👉 **Google Scholar profile**:  
+https://scholar.google.com/citations?user=GtMWSzQAAAAJ&hl=en
 
 ---
 
