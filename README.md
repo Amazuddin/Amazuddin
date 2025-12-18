@@ -83,7 +83,7 @@ Research interests include **AI, Machine Learning, Explainable AI (XAI), Cyberse
 ---
 
 ### 📌 Pinned Repositories
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=ExpenseApp)](https://github.com/Amazuddin/ExpenseApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=Transport-management-system-with-ASP.NET)](https://github.com/Amazuddin/Transport-management-system-with-ASP.NET)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=WeMedCare)](https://github.com/Amazuddin/WeMedCare)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amazuddin&repo=Online-Book-and-Video-tutorial-System)](https://github.com/Amazuddin/Online-Book-and-Video-tutorial-System)
