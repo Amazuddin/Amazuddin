@@ -88,7 +88,7 @@ My core research interests include:
 
 I have published and actively work on research that bridges **high-performance deep learning models** with **explainability and security guarantees**, particularly in the context of **LLM-driven cybersecurity systems**.
 
-#### 📄 Publications (Auto-Updated)
+#### 📄 Publications
 <a href="https://scholar.google.com/citations?user=GtMWSzQAAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google%20Scholar-View%20Publications-blue?logo=googlescholar&style=flat" />
 </a>
