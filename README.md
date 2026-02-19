@@ -11,7 +11,7 @@
 - 💼 Working with **ASP.NET Core, MVC, Web API, Entity Framework, Angular, React**
 - 🌱 Currently learning **Flutter**
 - 🤝 Open to collaboration on **Machine Learning, Deep Learning & Cybersecurity research**
-- 📫 Email: **amaz.cse.uddin@gmail.com**
+- 📫 Email: **mohammadamazuddin@gmail.com**
 - 🌐 Portfolio: [https://mohammadamazuddin.netlify.app](https://mohammadamazuddin.netlify.app)
 - 😄 Pronouns: **He/Him**
 
@@ -111,7 +111,7 @@ https://scholar.google.com/citations?user=GtMWSzQAAAAJ&hl=en
 ---
 
 ### 🔗 Connect With Me
-- 📧 Email: [amaz.cse.uddin@gmail.com](mailto:amaz.cse.uddin@gmail.com)
+- 📧 Email: [mohammadamazuddin@gmail.com](mailto:mohammadamazuddin@gmail.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/mohammad-amaz-uddin-2ab545154
 - 👨‍💻 GitHub: https://github.com/Amazuddin
 - 🌐 Portfolio: https://mohammadamazuddin.netlify.app
